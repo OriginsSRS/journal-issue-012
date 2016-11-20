@@ -3,7 +3,8 @@
         "github-edit",
         "anchors",
         "youtube",
-        "modal-youtube-video"
+        "modal-youtube-video",
+        "toolbar"
     ],
     "pluginsConfig": {}
 }

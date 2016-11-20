@@ -70,14 +70,14 @@ People put a lot of effort into dice, both at creating them and cheating at them
 
 * Becker, A. (2008). **The Royal Game of Ur.** In Finkel (ed.). pp. 11-15. Dice [Def. 1]. Merriam-Webster Online. http://www.merriamwebster.com/dictionary/dice
 
-* Evans, C. (n.d.). **The History of Dice.** The Evans Group, LLC. http://www.theevansgroupllc.com/published-articles/the-history-of-dice/
+* Evans, C. (n.d.). **[The History of Dice.](http://www.theevansgroupllc.com/published-articles/the-history-of-dice/)** The Evans Group, LLC.
 
-* Graham, J. and Graham, K. (n.d.). **Crooked Dice.** The Brothers Graham. http://www.thebrothersgraham.com/loading.html
+* Graham, J. and Graham, K. (n.d.). **[Crooked Dice.](http://www.thebrothersgraham.com/loading.html)** The Brothers Graham.
 
-* Halliday, W.R. (1913). **Greek Divination: A Study of its Methods and Principles.** MacMillan and Co., Limited. http://www.ancientlibrary.com/divination/0217.html
+* Halliday, W.R. (1913). **[Greek Divination: A Study of its Methods and Principles.](http://www.ancientlibrary.com/divination/0217.html)** MacMillan and Co., Limited.
 
-* History of Dice. (2012). **Awesome Dice.** http://www.awesomedice.com/blog/253/history-of-dice-2/
+* History of Dice. (2012). **[Awesome Dice.](http://www.awesomedice.com/blog/253/history-of-dice-2/)**
 
-* **How To Load Dice.** (n.d.). WikiHow. http://www.wikihow.com/Load-Dice
+* **[How To Load Dice.](http://www.wikihow.com/Load-Dice)** (n.d.). WikiHow.
 
-* Rowland, I. (2009). **How Do You Load a Pair of Dice.** The Straight Dope. http://www.straightdope.com/columns/read/2878/how-do-youload-a-pair-of-dice
+* Rowland, I. (2009). **[How Do You Load a Pair of Dice.](http://www.straightdope.com/columns/read/2878/how-do-youload-a-pair-of-dice)** The Straight Dope.

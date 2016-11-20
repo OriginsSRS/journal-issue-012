@@ -1,2 +1,2 @@
-# Intoductory Rambling
+# Introductory Rambling (Editor's Note)
 

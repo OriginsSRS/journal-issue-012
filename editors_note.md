@@ -2,7 +2,7 @@
 
 ## *Aka: Introductory Rambling*
 
-Happy equinox fellow Originals! Welcome to spring, complete with bees, pollen, allergies, heat, and Daylight Savings Time. (Why is Daylight Savings Time still a thing? Seriously.) But spring isn't all that bad since it comes with brand new issue of Origins about **games**!
+Happy equinox fellow Originals! Welcome to spring, complete with bees, pollen, allergies, heat, and Daylight Savings Time. (Why is Daylight Savings Time still a thing? Seriously.) But spring isn't all that bad since it comes with brand new issue about **games**!
 
 To the best of my knowledge, since humans began doing things, we've always entertained ourselves somehow. Which brings us to Issue 12: Game On! Gaming culture is all around us. We've decided to celebrate the close of three years at Origins with fun. From the origins of dice and chess, racing and geometry, to virtual reality, gaming has come a long way. Where did our favorite games come from and where are they heading? This is what we strive to question, answer, and explore.
 

@@ -4,5 +4,5 @@
 * [In This Issue](contents.md)
 * [Editor's Note](editors_note.md)
 * [A Gamer's Insight into Reality](vosburgh-gamer-insight-reality.md)
-* A (Marginally Adequate) History of Dice
+* [A (Marginally Adequate) History of Dice](lemp-dice.md)
 

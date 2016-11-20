@@ -4,7 +4,7 @@
 
 ![Roman die](lemp-cover-git.jpg)
 
-Image Credit: [Rama](https://commons.wikimedia.org/wiki/File:Roman_dice_IMG_4367.JPG) | Wikimedia Commons | [CC BY -SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
+Image Credit: [Rama](https://commons.wikimedia.org/wiki/File:Roman_dice_IMG_4367.JPG) | Wikimedia Commons | [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
 
 ---
 

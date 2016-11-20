@@ -4,7 +4,8 @@
 
 ![Supernova](PIA17563.jpg)
 
-Image Credit: ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)
+*A caption...*<br>
+Credit: ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)
 
 ---
 

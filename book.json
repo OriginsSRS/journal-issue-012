@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "github-edit"
+        "github-edit",
+        "anchors"
     ],
     "pluginsConfig": {}
 }

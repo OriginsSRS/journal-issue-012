@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](intro.md)
+* [Game On!](intro.md)
 * [In This Issue](in_this_issue.md)
 * [Introduction](SUMMARY.md)
 * [Kill](README.md)

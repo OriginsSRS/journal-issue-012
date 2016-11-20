@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "toggle-chapters"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }

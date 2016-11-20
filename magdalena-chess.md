@@ -6,6 +6,9 @@
 
 Image Credit: Ethan Kellogg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+---
+
+It is a game, science, and sport. Seen as a wargame or mental martial art, the act of teaching and playing chess is often employed as a way to enhance mental prowess. Its origin remains unknown with no fixed point in time marking its first instance. The oldest archaeological evidence of a chess-like game was discovered by archaeologist and historian Jurij F. Burjakov. Named after their place of origin, the ivory Afrasiab Chessmen seven-piece set (c. 700-712 CE) was discovered in 1977 near Samarkand, Uzbekistan. Due to the multitude of variations throughout history, chess is likely the product of multiple people creating various games which were combined into the form of chess we recognize today.
 
 ---
 

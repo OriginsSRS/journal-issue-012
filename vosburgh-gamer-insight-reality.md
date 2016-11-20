@@ -1,7 +1,7 @@
 # A Gamer's Insight into Reality
 
 #### Alex Vosburgh
-
+<br>
 
 ![Supernova](PIA17563.jpg)
 

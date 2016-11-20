@@ -53,4 +53,4 @@ things, and inevitably seek the answers to those questions. Which means it's onl
 
 ---
 
-[**Alex Vosburgh**](mailto:avosburgh@knowyourorigins.org) is not only Co-Founder of Origins Scientific Research Society, but also an engineering student at University of New Mexico. 
+[**Alex Vosburgh**](mailto:avosburgh@knowyourorigins.org) is Co-Founder of Origins Scientific Research Society and Engineering Undergraduate at University of New Mexico. 

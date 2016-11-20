@@ -1,5 +1,7 @@
 # Chess: Modern Board Game or Living Fossil?
 
+> "Just as chess is a difficult game, its origin is a difficult puzzle." - Mark Weeks
+
 ---
 
 ![Chess: Modern Board Game or Living Fossil?](magdalena-cover-git.jpg)
@@ -8,7 +10,13 @@ Image Credit: Ethan Kellogg | [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ---
 
-It is a game, science, and sport. Seen as a wargame or mental martial art, the act of teaching and playing chess is often employed as a way to enhance mental prowess. Its origin remains unknown with no fixed point in time marking its first instance. The oldest archaeological evidence of a chess-like game was discovered by archaeologist and historian Jurij F. Burjakov. Named after their place of origin, the ivory Afrasiab Chessmen seven-piece set (c. 700-712 CE) was discovered in 1977 near Samarkand, Uzbekistan. Due to the multitude of variations throughout history, chess is likely the product of multiple people creating various games which were combined into the form of chess we recognize today.
+It is a game, science, and sport. Seen as a wargame or mental martial art, the act of teaching and playing chess is often employed as a way to enhance mental prowess. Its origin remains unknown with no fixed point in time marking a first instance. The oldest archaeological evidence of a chess-like game was discovered by archaeologist and historian Jurij F. Burjakov. Named after their place of origin, the ivory Afrasiab Chessmen seven-piece set (c. 700-712 CE) was discovered in 1977 near Samarkand, Uzbekistan. Due to the multitude of variations throughout history, chess is likely the product of multiple people creating various games which were combined into the form of chess we recognize today.
+
+When the Arabs arrived in Persia (638-651 CE), they assimilated Persian culture, including their game *chatrang*, a chess-like game. With the phonetic evolution from Persian to Arabic, *chatrang* became *shatranj* and prospered during the Arabic splendor of arts and sciences. Knowledge from ancient Byzantium, Egypt, Greece, Iran, and the Middle East was translated into Arabic, and Chess was a part of the knowledge that was packaged with early mathematics, astronomy, philosophy and medical achievements, a scientific body of knowledge later sent to the West.
+
+Prior to 600 CE, chess does not appear to exist in any recognizable form. While many scholars have proposed many locations for the geographic origin of chess (including China, post-Alexander Kingdom of Bactria, and the Kushan empire), the strongest argument proposes that chess emerged from Northwest India or Iran in the 7th century.
+
+Irani literature contains the oldest records of chess-like games. The epical treatise *Karnamak-ī Ardeshīr-ī Pāpakān* (the Book of Deeds of Ardeshir-e Pāpakān) written during the Sasanian dynastic era (224-651 CE) mentions chatrang as one of young prince Ardeshir's great accomplishments. The *Mâdayân î chatrang* (c. 620 CE) and Iranian epic-poet Firdausi's *Shahnama* (c. 1010) recount the story of a game with thirty-two pieces—sixteen of emerald and sixteen of ruby—gifted to Sassanid king Khosrau I as a challenge and successfully mastered by his courtiers. Firdausi's claim is not only continuous from centuries prior, but he also mentions the game arriving from "Hind." Though "Hind" did refer to India after the 11th century, during the time of writing "Hind" referred to the Eastern province of the Iranian Empire.
 
 ---
 

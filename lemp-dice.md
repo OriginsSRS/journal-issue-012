@@ -59,7 +59,9 @@ People put a lot of effort into dice, both at creating them and cheating at them
 
 ---
 
-**Connor Lemp** is...
+###About the Author
+
+**Connor Lemp** is an writer and editor, both professionally and for his roleplaying games.
 
 ---
 

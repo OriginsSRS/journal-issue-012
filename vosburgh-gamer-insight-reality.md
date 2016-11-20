@@ -49,3 +49,8 @@ Interestingly enough, these tiny components also make up the coding for our univ
 
 Who knows if we'll ever fully understand our home, the universe we live in. It is vast and complex and sometimes doesn't seem to make a whole lot of sense. But that won't stop us from trying to figure it out. As long as humanity has its curiosity, we shall always question
 things, and inevitably seek the answers to those questions. Which means it's only a matter of time until we are able to discern whether we live in a majorly complex version of The Sims or not. 
+
+
+---
+
+[**Alex Vosburgh**](mailto:avosburgh@knowyourorigins.org) is not only Co-Founder of Origins Scientific Research Society, but also an engineering student at University of New Mexico. 

@@ -1,7 +1,6 @@
 {
     "plugins": [
         "github-edit",
-        "anchors",
         "toggle-chapters"
     ],
     "pluginsConfig": {}

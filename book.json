@@ -5,7 +5,8 @@
         "youtube",
         "modal-youtube-video",
         "toolbar",
-        "toggle-chapters"
+        "toggle-chapters",
+        "theme-rangle-io"
     ],
     "pluginsConfig": {}
 }

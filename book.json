@@ -2,7 +2,6 @@
     "plugins": [
         "github-edit",
         "anchors",
-        "youtube",
         "toggle-chapters"
     ],
     "pluginsConfig": {}

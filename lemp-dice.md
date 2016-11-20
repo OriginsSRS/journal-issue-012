@@ -25,11 +25,62 @@ Not to be outdone, the Roman empire is responsible for the oldest 6-sided die wi
 
 ---
 
+## Dice from Around the World
+
 | Specimen | About |
 | -- | -- |
-| ![](dice-walters.png) | **What ::** Bone marked off for dice <br>**Who & When ::** Roman, 1st-3rd Century<br>**About ::** Only 3 sides of each piece is finished. After separation, bone hollows would be filled with other bits of bone and numbers carved on all 6 sides.<br>**Courtesy of ::** Walters Art Museum CC BY-SA 3.0 |
-| 0:3 | 1:3 |
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
+| ![Roman bone dice](dice-walters.png) | **What ::** Bone marked off for dice <br>**Who & When ::** Roman, 1st-3rd Century<br>**About ::** Only 3 sides of each piece is finished. After separation, bone hollows would be filled with other bits of bone and numbers carved on all 6 sides.<br>**Courtesy of ::** [Walters Art Museum](), [CC BY-SA 3.0]() |
+| ![Knucklebone](dice-knucklebone.png) | **What ::** Inscribed Os (Knucklebone)<br>**Who & When ::** Egyptian, 2687 - 333 BCE<br>**About ::** Astragalus bone, carved. In pop culture, "roll them bones" refers to knucklebone dice.<br>**Courtesy of ::** [LACMA](), Public Domain |
+| ![Viking dice examples](dice-viking.png) | **What ::** Various Dice<br>**Who & Where ::** Vikings, Sweden<br>**About ::** Likely used for playing games.<br>A & B - Bone/antler grave find, from Björkö, Adelsö, Uppland<br>C - Bone/antler find from unknown location<br>D - Bone/antler grave find, from Sörby, Hölö, Södermanland<br>E - Teeth (from elk) grave find from Björkö, Adelsö, Uppland<br>**Courtesy of ::** [The Swedish History Museum, Stockholm](), [CC BY-NC-SA 2.0]() |
+| ![20-sided brushed steel die](dice-metal-d20.png) | **What ::** Brushed Steel Icosahedron<br>**When ::** 21st century<br>**About ::** From Ethan’s personal collection used to smite dragons, save damsels, and purchase cheap ale at the inn.<br>**Courtesy of ::** [Ethan Kellogg](), [CC BY 4.0]() |
+| ![United States Civil War bone die](dice-bone.png) | **What ::** Bone die<br>**Who & When ::** United States, 1823-1834<br>**About ::** Discovered at Cantonment Clinch, an American fort used in the Civil War by both Confederate and Union troops at separate times.<br>**Courtesy of ::** [Kolby Kirk](), [CC BY 3.0]() |
 
+---
 
+There are many styles of dice. The most common today are made in the shapes of platonic solids. These dice have 4, 6, 8, 12, and 20 sides. The exception to the rule is the much more modern 10-sided die, which is not a platonic solid. 10-sided dice are used in pairs to create percentages, and are sometimes called percentage dice for this reason. Other types of dice exist, such as barrel dice. These dice are aptly named, made with numbers printed along flat sides on the outside edge of the 'barrel'. These dice are not thrown, but instead rolled in the direction of their long edge. The bulk of historical dice are made in the shape of platonic solids or are made to mimic an existing shape in nature, such as knucklebones dice.
+
+Dice have found many uses in human history. Dice have been used in divination, as part of board games, in word games, and in modern efforts to teach math and probability. A common use for modern dice is in roleplaying games. Popularized by Dungeons and Dragons starting in 1974, this style of game is permanently associated with 10, 12, and 20-sided dice in popular culture. And of course, there's the elephant in the room. Gambling. Gambling is one of the oldest and most popular pastimes of mankind. The first written reference to gambling was made in the Sanskrit epic Mahabharata in the year 400 BCE. Dicing was a frequent pastime in Rome, despite the fact that law forbade it except during the Saturnalia. Gambling with dice was said to be popular among Germanic peoples in the time of Tacitus, and to knights during the middle ages. In France, gambling with dice was immensely popular among knights and ladies, despite many laws banning it. Even multiple interventions by Louis IX, the reigning monarch, failed to curb the popularity of dice games in France.
+
+Gaming with dice can take many forms and use many different rules. Because the rules for historical dice games were not always recorded, we often have no idea how ancient dice were used. Some games rely on dice to randomize actions, such as determining the outcomes of actions in roleplaying games, or to determine how far to move a piece in a board game. Other games use dice as a random element to guess against, such as in craps, where bets are made against the value displayed on the dice. Craps is one of the most widely known games to rely on dice. Due to their popularity, and the high stakes sometimes placed on them, the dice used in craps are subjected to great scrutiny. Modern casino dice are made in a specific way to make tampering obvious, and to ensure that dice rolls are fair.
+
+---
+
+#####Did you know the average roll on a twenty sided die is 10.5? Do you know what the average roll is when you roll three six sided die together and add the results together? Also 10.5. Maths.
+
+---
+
+To understand fair dice, you have to understand unfair dice as well. There is a long history of people cheating at dice games. The history of loaded dice is likely almost as long as dice themselves. Fair dice can be expected to land on one side just as often as another. All sides of a fair die are of equal weight and size, with sharp, unrounded edges. Unfair dice can be created accidentally or intentionally in a number of ways. With the reliability of modern injection molded dice, it can be safely said that any dramatically unfair dice you come across have been made that way deliberately.
+
+There are a few basic ways of creating unfair dice. Perhaps the most obvious is weighting. When weighting a modern die, the prospective cheater will drill out holes in the pips of gambling dice, insert small weights, and seal the hole back up again. There are a number of ways to prevent this from happening, and casinos use the most obvious: Casino dice are made of a translucent plastic, so that any such tampering would be plainly visible. A variant of this method can be used on dice whose pips are recessed into the surface. The pips would be carefully filled with a tiny amount of a very heavy substance, like lead, then painted over. While it may seem like a tiny change, a clever gambler could leverage a small change in the probability of dice to their advantage. Again, preventing this sort of cheating is simple. Casinos use dice with flat surfaces, opting to paint the pips onto the surface of dice. In fact, casinos use a paint with the same specific gravity as the plastic itself, so that not even the weight difference of the paint markings affects the roll.
+
+Unfair dice can also be made by removing surface material from the dice. There are two main ways this is done, either shaving or beveling. To shave a die, one removes a smooth layer of material from two opposing faces of the die. By doing this, the shaved faces remain at their original width, but the remaining 4 faces of the die will have slightly less surface area as rectangles. The die is then more likely to land on one of the shaved faces since they retain their square shape. To bevel a die, a cheater will remove some material from the face of a die to make it slightly convex. Because it is slightly more rounded than other sides of the die, it is more likely to roll off of that side, and come to rest on a flat one. Dice modified in this way can detected by creating a 'box' of fair dice, and fitting the suspected crooked die within the space created. Fair dice will slide into the open space smoothly, and with no spare room. Dice that have been shaved or beveled will reveal small gaps in the pattern.
+
+Another way to create unfair dice is to cook them. While it sounds like a nickname, this one is literal. A careful cheater can gradually heat plastic dice in an oven with the most desired surface facing up. If carefully heated, the dice will imperceptibly deform, leaving the bottom of the cooked die slightly wider and heavier than the top. If used cautiously, this method can yield a die that appears to be perfectly normal, bu rolls the desired number with much greater frequency. These dice can be detected by throwing them in a glass of water. If the plastic is heavier than the water, then the bottom of the cooked die will always rotate to the bottom of the glass. If the plastic is lighter than water, the bottom of the cooked die will always rotate to face upwards from the glass. The water test can also be applied to opaque dice that are suspected to be weighted. When thrown in water, weighted dice will always rotate the heaviest face downward as they sink. There are many other, more complex ways of creating crooked dice. Some methods of cheating at dice will defeat even these methods of detection.
+
+People put a lot of effort into dice, both at creating them and cheating at them. Throughout human history, incalculable sums of money and goods have exchanged hands as a result of the fall of dice. Dice have made and lost fortunes in instants, and the randomness of even fair dice often goes against the participant of a game. You might expect that their capricious nature would dull some of our love for dice, but you would be wrong.
+
+---
+
+**Connor Lemp** is...
+
+---
+
+###References
+
+Becker, A. (2008). **The Royal Game of Ur.** In Finkel (ed.). pp. 11-15.
+Dice [Def. 1]. Merriam-Webster Online. http://www.merriamwebster.com/dictionary/dice
+
+Evans, C. (n.d.). **The History of Dice.** The Evans Group, LLC. http://www.theevansgroupllc.com/published-articles/the-history-of-dice/
+
+Graham, J. and Graham, K. (n.d.). **Crooked Dice.** The Brothers Graham.
+http://www.thebrothersgraham.com/loading.html
+
+Halliday, W.R. (1913). **Greek Divination: A Study of its Methods
+and Principles.** MacMillan and Co., Limited. http://www.ancientlibrary.com/divination/0217.html
+
+History of Dice. (2012). **Awesome Dice.** http://www.awesomedice.com/blog/253/history-of-dice-2/
+
+**How To Load Dice.** (n.d.). WikiHow. http://www.wikihow.com/Load-Dice
+
+Rowland, I. (2009). **How Do You Load a Pair of Dice.** The Straight Dope.
+http://www.straightdope.com/columns/read/2878/how-do-youload-a-pair-of-dice

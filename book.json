@@ -1,7 +1,8 @@
 {
     "plugins": [
         "github-edit",
-        "anchors"
+        "anchors",
+        "youtube"
     ],
     "pluginsConfig": {}
 }

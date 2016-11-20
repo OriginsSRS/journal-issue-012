@@ -103,7 +103,7 @@ Russian chess historian Pavle Bidev pointed out that the rules of chess likely o
 ---
 
 ###About the Author
-**[Melanie E Magdalena](www.knowyourorigins.org/team/magdalena.html)** is a passionate bilingual creator and developer searching to bridge gaps in society with technology and information by using her rich scientific and digital media background, complemented by studies in anthropology, earth science, and design strategy.
+**[Melanie E Magdalena](www.knowyourorigins.org/team/magdalena.html)** is a passionate bilingual creator and developer searching to bridge gaps in society with technology and information by using her rich scientific and digital media background, complemented by specialized studies in anthropology, earth science, and design strategy.
 
 ---
 

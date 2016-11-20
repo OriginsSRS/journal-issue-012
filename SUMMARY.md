@@ -5,5 +5,5 @@
 * [Editor's Note](editors_note.md)
 * [A Gamer's Insight into Reality](vosburgh-gamer-insight-reality.md)
 * [A (Marginally Adequate) History of Dice](lemp-dice.md)
-* Chess: Modern Board Game or Living Fossil?
+* [Chess: Modern Board Game or Living Fossil?](magdalena-chess.md)
 

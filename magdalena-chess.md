@@ -52,11 +52,9 @@ Cazaux, J.L. (2014). **Les différents échecs de l’ancien monde.** http://his
 
 Ferlito, G. and A. Sanvito. (1990). **Origins of Chess, Protochess, 400 B.C. to 400 A.D.** The Pergamon Chess Monthly 55(6). http://history.chess.free.fr/papers/Ferlito-Sanvito%201990.pdf
 
-G., M. (2002). **The Arab Role in the Development of Chess.** Al Shindagah.
-http://www.alshindagah.com/marapr2002/chess.html
+G., M. (2002). **The Arab Role in the Development of Chess.** Al Shindagah. http://www.alshindagah.com/marapr2002/chess.html
 
-Horne, C.F. (ed.) (n.d.). **Kārnāmag-ī Ardaxšīr-ī Pābagān or Book of the Deeds of Ardeshir.** CAIS: The Circle of Ancient Iranian Studies. 
-http://www.cais-soas.com/CAIS/Languages/pahlavi/karnamak.htm
+Horne, C.F. (ed.) (n.d.). **Kārnāmag-ī Ardaxšīr-ī Pābagān or Book of the Deeds of Ardeshir.** CAIS: The Circle of Ancient Iranian Studies.  http://www.cais-soas.com/CAIS/Languages/pahlavi/karnamak.htm
 
 Josten, G. (2001). **Chess - A Living Fossil [Thesis].** http://history.chess.free.fr/papers/Josten%202001.pdf
 

@@ -1,5 +1,6 @@
 # A Gamer's Insight into Reality
 
+---
 
 ![Supernova](PIA17563.jpg)
 

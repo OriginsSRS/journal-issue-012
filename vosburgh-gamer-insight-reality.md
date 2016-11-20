@@ -9,7 +9,6 @@ Credit: [ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA
 
 ---
 
-
 It is human nature to ponder the state of one's own existence. And indeed, one cannot ponder
 the nature of their existence without also considering the nature of the world around them. For what is existence without the collective memories and experiences one has acquired throughout their lifetime? It is through those events and the analysis of such happenstances
 that one can truly begin to discover themselves; to understand their place in the world and what that even means. Verily, I find that to be one of the nobler parts of humanity and its higher state of consciousness.
@@ -49,7 +48,6 @@ Interestingly enough, these tiny components also make up the coding for our univ
 
 Who knows if we'll ever fully understand our home, the universe we live in. It is vast and complex and sometimes doesn't seem to make a whole lot of sense. But that won't stop us from trying to figure it out. As long as humanity has its curiosity, we shall always question
 things, and inevitably seek the answers to those questions. Which means it's only a matter of time until we are able to discern whether we live in a majorly complex version of The Sims or not. 
-
 
 ---
 

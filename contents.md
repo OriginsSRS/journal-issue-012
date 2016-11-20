@@ -1,9 +1,5 @@
 # In This Issue
 
-## Issue 12: Game On!
-
-Why do we game? What do we consider games? What's up with all these batteries and software updates all the time to even get to the game?! We're diving into the material and digital culture of gaming, across time and around the world. It's GAME ON!
-
 ## Choose Your Character
 
 | AVATAR | PERSONA CARD |
@@ -15,4 +11,4 @@ Why do we game? What do we consider games? What's up with all these batteries an
 |  | **Name:** Ethan Kellogg<br>**Character Type:** Slack Pokémon<br>**Character Subtype:** Normal (though sometimes he wishes Fairy/Dark)<br>**Gaming Since:** 199X<br>**Quest:** ["Too Cool For Pokéschool"]() <br>**Side Quest:** "Ethan's Useless Knowledge"|
 |  | **Name:** Liz Lypp<br>**Character Type:** Psychologist<br>**Character Subtype:** Queen of Cranius<br>**Gaming Since:** 1991<br>**Quest:** ["Flow in Gaming"]() |
 |  | **Name:** Karen Meza<br>**Character Type:** Consultant<br>**Character Subtype:** Shopaholic<br>**Gaming Since:** 1992<br>**Quest:** ["Spatial Intelligence & Geometric Games"]() |
-|  | **Name:** Alex Vosburgh<br>**Character Type:** Jack of All Trades<br>**Character Subtype:** Yes<br>**Gaming Since:** 1989<br>**Quest:** ["A Gamer's Insight into Reality"]() | 
+|  | **Name:** Alex Vosburgh<br>**Character Type:** Jack of All Trades<br>**Character Subtype:** Yes<br>**Gaming Since:** 1989<br>**Quest:** ["A Gamer's Insight into Reality"]() |

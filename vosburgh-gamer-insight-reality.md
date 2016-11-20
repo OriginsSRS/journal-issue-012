@@ -2,8 +2,6 @@
 
 #### Alex Vosburgh
 
-<br>
-
 ---
 
 

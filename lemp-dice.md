@@ -4,6 +4,7 @@
 
 ![Roman die](lemp-cover-git.jpg)
 
+*A Roman die on display at Vidy Roman Museum.*<br>
 Image Credit: [Rama](https://commons.wikimedia.org/wiki/File:Roman_dice_IMG_4367.JPG) | [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
 
 ---

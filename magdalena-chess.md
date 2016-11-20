@@ -28,6 +28,14 @@ Irani literature contains the oldest records of chess-like games. The epical tre
 
 During the 9th century, Persian poet, musician, and singer Ali ibn-Nafi introduced *shatranj* to Spain. In the 13th century, the manuscript *Libro de los juegos* described the arrival of chess, backgammon, and dice. In Spain, the modern-day bishop was introduced as *alfil*, an Arabic loanword from Persian *pīl*. The *alfil* is shaped like an elephant. Many have argued that the presence of elephants points the game to an Indian origin, but elephants are not exclusive to India. Egyptian Ptolemaic Kings regularly acquired elephants from Somalia and Iranian armies included elephants along with foot-soldiers, chariots, riverships, cavalry, and battleships.
 
+---
+
+![Shatranj](chess_shatranj.jpg)
+
+*Shatranj set from the 12th century, currently located at the New York Metropolitan Museum of Art.*<br>Image Credit: [Zereshk](https://commons.wikimedia.org/wiki/File:Shatranj.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+---
+
 *Shatranj* arrived in Europe by at least four paths: Spain and Italy by conquest, through the Byzantine Empire in the Balkans, and in Russia and Scandinavia via the Volga River trade route from the Caspian Sea. The first European text about chess is a poem, *Versus de Scachis* (990 CE), describing the two-colored chess board and the first appearance of the Queen (rather than vizier). In the Latin epic *Ruodlieb* (c. 1050), a German monk from Tegernsee describes a medieval knight's adventures, which includes a case when the knight faced a high-stakes chess game against a king during negotiations. 
 
 By the 12th century, chess had become a pastime for nobility, growing in popularity in France and Germany. French chess players were the strongest in the world from the mid-18th century to the mid-19th century, when chess clubs sprouted throughout London, shifting the epicenter of chess to England. Chess quickly became an organized sport, and other countries grew interested in participating. In 1851, the first international chess tournament was held in London, won by Adolf Anderssen of Germany. Alexander Petrov of Russia wrote the first Russian manual *The Game of Chess* (1824). A century later, the Fédération Internationale des Échecs (FIDE) was founded at Paris. This variant of chess continues to this day.
@@ -42,6 +50,14 @@ While Korean *janggi* is likely associated with *xiangqi*, written records do no
 
 In 1993, sixteen pieces of pentagonal Hinoki wood, with Chinese calligraphy ideograms, were discovered at a dig at Kofuku-Ji Temple in Nara City. Dating to the Heian Period (794-1185), these are the oldest *shogi* pieces known in the archaeological record. Japanese *shogi*, meaning "general's game," is first mentioned in the text *Kirinshô* (1027), which details the proper methodology for inscribing *shogi* pieces. Starting in the 11th century, it is clear *shogi* pieces are small and inscribed with ink. The first account which explains the strategy of *shogi* is the *Nichûreki* (c. 1210-1230). It covers how the pieces move and describes the board size for a small version (*Heian-sho-shogi*) with six kinds of pieces and for a large version (*Heian-dai-shogi*) with thirteen kinds of pieces. Many versions of *shogi* developed over the years, replacing previous variants (such as *Dai-shogi* and *Chu-shogi*) and eventually settling into modern *shogi*.
 
+---
+
+![Shogi](chess_shogi.jpg)
+
+*Shogi flat tile pieces with symbols as identifiers (rather than different shapes).*<br>[Matt Perreault](https://www.flickr.com/photos/dirigibleduck/3331890418) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+---
+
 While it could be presumed that *shogi* arrived in Japan from China—based on calligraphy ideograms, the style of board, and types of pieces—*shogi* shares many similarities with other chesslike games from South-East Asia. Geographically, *shogi* or a proto-*shogi* could have arrived in Japan via China or South-East Asia through the trade routes. Burmese chess (modern-day Myanmar), *sittuyin*, is not mentioned until 1800 by Major Symes, a British ambassador. *Makruk* is also recorded historically late by La Loubère, French ambassador to the Kingdom of Siam (c. 1687-1688). An earlier account by Marco Polo (1285) does mention seeing ivory chess pieces in Champa Kingdom (South Vietnam). Polo's description is more likely to be that of a Cambodian chess cousin since Vietnamese chess *tuo-cong* does not use ivory. Where does this melting pot of chess-like games originate from?
 
 Looking at the “out-of-India” hypothesis, Henry A. Davidson proposed four major radiations of chess: east into China via the Silk Road (800-1000 CE), through Burma and Indo-China (800-1100 CE), west into Persia and the Arab Empire (600-800 CE) which continued west into Spain by 1008, and into Siberia (1400-1500 CE). While historical references can be interpreted to support this view, there is a lack of archaeological evidence to verify the written records.
@@ -52,9 +68,25 @@ Evolution is the process of one form taking on a new form over an extended perio
 
 In a phylogenetic study of chess ancestry by Alex R. Kraaijeveld (2000), forty chess variants were analyzed with 109 characters identifying primitive and derived states. Using the PHYLIP-package, each analysis in the study was randomized 1000 times and then merged into a single consensus tree. A phylogenetic tree was created for the fictitious Federation Chess (from Star Trek) as a control, *Chaturanga*, *Chaturaji*, and proto-*Xiangqi*. The results showed *Chaturanga* to be in the best agreement with historical references but did not conclude it to be an "out-of-India" origin for chess. Rather, the study shows that a *Chaturanga*-like ancestor could have arrived from somewhere else or even be a descendant of an older form of chess outside of India. While phylogenetic methods in board games are not meant to replace traditional research, it does offer a complementary view of the origin of chess from a very different perspective.
 
+---
+
+![Senet](chess_senet.jpg)
+
+*Around 3100 BCE someone inscribed a hieroglyph representing one of the oldest games of all time: Senet. This Egyptian game is featured in tomb paintings and during the New Kingdom the game became a representation (or perhaps a talisman) for journeying through the underworld. It is even mentioned in the Book of the Dead. They are often found in tombs. The Senet board is a grid of thirty squares arranged in three rows of ten. Though we don't actually know the rules, there are two versions you can buy and play today. We do know pawns were used as pieces, but not like the pawns used in Chess today.*<br>Image Credit: [Dmitry Denisenkov](https://www.flickr.com/photos/ddenisen/7364442692/in/photostream/) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+---
+
 Some of the first board games were religious in origin. The Egyptian game of *Senet* (meaning "passing") was a tiled board game with dice forerunners (half-flat sticks). Each square connected the player to a path into the underworld. The object of the game was to travel through the underworld and reach the end, at which time one would rise into the sky at dawn to become a sun god. *Ashtapada*, a race-based game, was played with dice and pieces. When gambling was prohibited in parts of India due to Hindu belief, *Ashtapada*’s "race-to-the-finish" rules were changed to a more strategic game, paving the way for a board game focused on gaming strategy. Based on previous studies and hypothesis by many scholars, either of these games could have served as a proto-chess.
 
 The origin of chess is shrouded in mystery. Where does one draw the line between chess and proto-chess. Is the definition of chess exclusive to FIDE though it recognizes *shatranj* as its predecessor? Is the definition of chess a tiled board with pieces which move? Such a simple definition would give the Royal Game of Ur, one of the oldest tiled board games in existence, the place of common ancestor to chess variants. 
+
+---
+
+![](chess_royal-game-of-ur.jpg)
+
+*From the Royal Tombs of Ur, two ancient game boards of twenty squares were discovered by Sir Leonard Woolley in the 1920s. Named the Royal Game of Ur, this is among the oldest board games in history (alongside ancient Egyptian Senet). A [tablet](http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=129985&objectId=796973&partId=1#more-views), which partially describes gameplay, has kept the rules of this game alive for millennia.*<br>Image Credit: [Babelstone](https://en.wikipedia.org/wiki/File:British_Museum_Royal_Game_of_Ur.jpg) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
 
 Defining chess would require drawing a line. The line would exclude many likely board games which in their time influenced a modification in one game, which in turn modified another, and another, and so on, until chess as we know it began its existence. We could define chess temporal-spatially to only being pieces representing cavalry, chariots, elephants, and infantry (as to justify the widespread existence of these pieces in chess-like games) dating to 400/300 BCE to 300/400 CE when evidence exists that these four divisions of an army did exist (at minimum in India). The common ancestor of chess is as vague as the criteria for its search.
 
@@ -64,10 +96,11 @@ Defining chess would require drawing a line. The line would exclude many likely 
 
 ---
 
-Russian chess historian Pavle Bidev pointed out that the rules of chess likely originated from looking at other games, such as Iranian *Takht-ī Nard* (backgammon). One conclusion is that the origin of chess comes from a common ancestor created by people on Planet Earth. Chess forerunners were likely common and widely varied, even after the Arabic adoption of *shratranj*. Boards, pieces, and rules vary, but since around 600 CE people around the world have all found some pleasure in playing one of the oldest games of all time: chess.
+Russian chess historian Pavle Bidev pointed out that the rules of chess likely originated from looking at other games, such as Iranian *Takht-ī Nard* (backgammon). A rather certain conclusion is that the origin of chess comes from a common ancestor created by people on Planet Earth. Chess forerunners were likely common and widely varied, even after the Arabic adoption of *shratranj*. Boards, pieces, and rules vary, but since around 600 CE people around the world have all found some pleasure in playing one of the oldest games of all time: chess.
 
 ---
 
+###About the Author
 **[Melanie E Magdalena](www.knowyourorigins.org/team/magdalena.html)** is a passionate bilingual creator and developer searching to bridge gaps in society with technology and information by using her rich scientific and digital media background, complemented by studies in anthropology, earth science, and design strategy, with work experience in higher education.
 
 ---

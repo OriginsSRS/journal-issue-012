@@ -68,7 +68,9 @@ People put a lot of effort into dice, both at creating them and cheating at them
 
 ###References
 
-* Becker, A. (2008). **[The Royal Game of Ur.](http://www.merriamwebster.com/dictionary/dice)** In Finkel (ed.). pp. 11-15. Dice [Def. 1]. Merriam-Webster Online.
+* Becker, A. (2008). **[The Royal Game of Ur.](http://www.merriamwebster.com/dictionary/dice)** In Finkel (ed.). pp. 11-15.
+
+* **[Dice [Def. 1]](http://www.merriam-webster.com/dictionary/dice)**. Merriam-Webster Online.
 
 * Evans, C. (n.d.). **[The History of Dice.](http://www.theevansgroupllc.com/published-articles/the-history-of-dice/)** The Evans Group, LLC.
 

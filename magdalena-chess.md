@@ -9,7 +9,7 @@ Image Credit: Ethan Kellogg | [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ---
 
-**[Melanie E Magdalena](www.knowyourorigins.org/team/magdalena.html)** is a Co-Founder of Origins Scientific Research Society and is a passionate bilingual creator and developer searching to bridge gaps in society with technology and information by using her rich scientific and digital media background, complemented by studies in anthropology and geographic information systems, and work experience in higher education.
+**[Melanie E Magdalena](www.knowyourorigins.org/team/magdalena.html)** is a passionate bilingual creator and developer searching to bridge gaps in society with technology and information by using her rich scientific and digital media background, complemented by studies in anthropology, earth science, and design strategy, with work experience in higher education.
 
 ---
 

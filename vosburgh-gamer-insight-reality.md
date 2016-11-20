@@ -1,14 +1,18 @@
+# A Gamer's Insight into Reality
+
+#### Alex Vosburgh
+
+<br>
+
+---
+
+
 ![Supernova](PIA17563.jpg)
 
 Image Credit: ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)
 
 ---
 
-# A Gamer's Insight into Reality
-
-#### Alex Vosburgh
-
-<br>
 
 It is human nature to ponder the state of one's own existence. And indeed, one cannot ponder
 the nature of their existence without also considering the nature of the world around them. For what is existence without the collective memories and experiences one has acquired throughout their lifetime? It is through those events and the analysis of such happenstances

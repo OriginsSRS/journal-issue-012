@@ -2,9 +2,9 @@
 
 ---
 
+![Roman die](lemp-cover-git.jpg)
 
-![Roman Die](Roman_dice_IMG_4367.JPG)
-Image Credit: Rama | CC BY -SA 2.0 FR
+Image Credit: [Rama](https://commons.wikimedia.org/wiki/File:Roman_dice_IMG_4367.JPG) | Wikimedia Commons | [CC BY -SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
 
 ---
 
@@ -18,3 +18,4 @@ The earliest known dice were found in an excavation in modern day Turkey. The fi
 [![Watch "The History of Dice in Under 6 Minutes](History of Dice.png)<br>Watch "The History of Dice in Under 6 Minutes" by Board With Life](https://www.youtube.com/watch?v=NtvBpKirE3s)
 
 Not to be outdone, the Roman empire is responsible for the oldest 6-sided die with what we would consider standard pip markings. The piece, found near Rome, dates from 900 BCE. The Romans also claim the second oldest 20-sided die, from 100 CE. It is made of a dull, green-tinted glass, and inscribed with Roman symbols. Very few cultures have not appropriated or invented dice of some kind. Holes punched in the floors of the Tlacuachero site in Mexico appear to be scoreboards for dice games. 6-sided dice have been found in excavations in China going back to the year 600 BCE, and 6-sided dice have been found in Viking graves from 1000 CE. No doubt the dice were used for entertainment on their long voyages.
+

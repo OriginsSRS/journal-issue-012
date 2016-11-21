@@ -13,7 +13,7 @@ Games are intertwined with many aspects of our lives. In the past, they came wit
 **Melanie E Magdalena**<br>
 *Editor-in-Chief & Creative Director*<br>
 [editor@knowyourorigins.org](editor@knowyourorigins.org)<br>
-21-March-2015
+Published: 21-March-2015
 
 ---
 

@@ -17,7 +17,7 @@ The earliest known dice were found in an excavation of what is now modern day Tu
 
 ---
 
-[![Watch "The History of Dice in Under 6 Minutes](img/dice/History of Dice.png)<br>Watch "The History of Dice in Under 6 Minutes" by Board With Life](https://www.youtube.com/watch?v=NtvBpKirE3s)
+{% youtube %}https://www.youtube.com/watch?v=NtvBpKirE3s{% endyoutube %}
 
 ---
 

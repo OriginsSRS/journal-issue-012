@@ -8,7 +8,7 @@ Why do we game? What do we consider games? What's up with all these batteries an
 
 **© [Origins Scientific Research Society](http://www.knowyourorigins.org)**
 
-{% creativecommons type="by" iconOnly="true" %}{% endcreativecommons %}
+{% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License]((https://creativecommons.org/licenses/by/4.0/). Permission of the authors is required for derivative works, compilations, and translations. All images use the Creative Commons license listed with the asset which may not be equal to that of this compilation.
 

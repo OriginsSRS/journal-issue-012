@@ -2,7 +2,7 @@
 
 ---
 
-![Crab Nebula, as Seen by Herschel and Hubble](vosburgh-cover-git.jpg)
+![Crab Nebula, as Seen by Herschel and Hubble](img/vosburgh-cover-git.jpg)
 
 *Crab Nebula, as Seen by Herschel and Hubble*<br>
 Credit: [ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)](http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17563)

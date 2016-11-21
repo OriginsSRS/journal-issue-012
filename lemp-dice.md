@@ -2,7 +2,7 @@
 
 ---
 
-![Roman die](lemp-cover-git.jpg)
+![Roman die](img/lemp-cover-git.jpg)
 
 *A Roman die on display at Vidy Roman Museum.*<br>
 Image Credit: [Rama](https://commons.wikimedia.org/wiki/File:Roman_dice_IMG_4367.JPG) | [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
@@ -17,7 +17,7 @@ The earliest known dice were found in an excavation of what is now modern day Tu
 
 ---
 
-[![Watch "The History of Dice in Under 6 Minutes](History of Dice.png)<br>Watch "The History of Dice in Under 6 Minutes" by Board With Life](https://www.youtube.com/watch?v=NtvBpKirE3s)
+[![Watch "The History of Dice in Under 6 Minutes](img/dice/History of Dice.png)<br>Watch "The History of Dice in Under 6 Minutes" by Board With Life](https://www.youtube.com/watch?v=NtvBpKirE3s)
 
 ---
 
@@ -39,11 +39,11 @@ Dice have found many uses in human history. Dice have been used in divination, a
 
 | Specimen | About |
 | -- | -- |
-| ![Roman bone dice](dice-walters.png) | **What ::** Bone marked off for dice <br>**Who & When ::** Roman, 1st-3rd Century<br>**About ::** Only 3 sides of each piece is finished. After separation, bone hollows would be filled with other bits of bone and numbers carved on all 6 sides.<br>**Courtesy of ::** Walters Art Museum [[Left](http://art.thewalters.org/detail/19332/numbers-3/)/[Right](http://art.thewalters.org/detail/19332/numbers-2/)], [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
-| ![Knucklebone](dice-knucklebone.png) | **What ::** Inscribed Os (Knucklebone)<br>**Who & When ::** Egyptian, 2687 - 333 BCE<br>**About ::** Astragalus bone, carved. In pop culture, "roll them bones" refers to knucklebone dice.<br>**Courtesy of ::** [LACMA](https://commons.wikimedia.org/wiki/File:Inscribed_Os_(Knucklebone)_LACMA_M.80.202.296.jpg), Public Domain |
-| ![Viking dice examples](dice-viking.png) | **What ::** Various Dice<br>**Who & Where ::** Vikings, Sweden<br>**About ::** Likely used for playing games.<br>[A & B](https://www.flickr.com/photos/historiska/6777026822/in/gallery-osrs-72157651342461995/) - Bone/antler grave find, from Björkö, Adelsö, Uppland<br>[C](https://www.flickr.com/photos/historiska/13621939844/in/gallery-osrs-72157651342461995/) - Bone/antler find from unknown location<br>[D](https://www.flickr.com/photos/historiska/13621608375/in/gallery-osrs-72157651342461995/) - Bone/antler grave find, from Sörby, Hölö, Södermanland<br>[E](https://www.flickr.com/photos/historiska/13622368263/in/gallery-osrs-72157651342461995/) - Teeth (from elk) grave find from Björkö, Adelsö, Uppland<br>**Courtesy of ::** The Swedish History Museum, Stockholm, [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) |
-| ![20-sided brushed steel die](dice-metal-d20.png) | **What ::** Brushed Steel Icosahedron<br>**When ::** 21st century<br>**About ::** From Ethan's personal collection used to smite dragons, save damsels, and purchase cheap ale at the inn.<br>**Courtesy of ::** [Ethan Kellogg](https://www.fatsackgaming.com), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| ![United States Civil War bone die](dice-bone.png) | **What ::** Bone die<br>**Who & When ::** United States, 1823-1834<br>**About ::** Discovered at Cantonment Clinch, an American fort used in the Civil War by both Confederate and Union troops at separate times.<br>**Courtesy of ::** [Kolby Kirk](https://commons.wikimedia.org/wiki/File:Die_bone.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| ![Roman bone dice](img/dice/dice-walters.png) | **What ::** Bone marked off for dice <br>**Who & When ::** Roman, 1st-3rd Century<br>**About ::** Only 3 sides of each piece is finished. After separation, bone hollows would be filled with other bits of bone and numbers carved on all 6 sides.<br>**Courtesy of ::** Walters Art Museum [[Left](http://art.thewalters.org/detail/19332/numbers-3/)/[Right](http://art.thewalters.org/detail/19332/numbers-2/)], [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+| ![Knucklebone](img/dice/dice-knucklebone.png) | **What ::** Inscribed Os (Knucklebone)<br>**Who & When ::** Egyptian, 2687 - 333 BCE<br>**About ::** Astragalus bone, carved. In pop culture, "roll them bones" refers to knucklebone dice.<br>**Courtesy of ::** [LACMA](https://commons.wikimedia.org/wiki/File:Inscribed_Os_(Knucklebone)_LACMA_M.80.202.296.jpg), Public Domain |
+| ![Viking dice examples](img/dice/dice-viking.png) | **What ::** Various Dice<br>**Who & Where ::** Vikings, Sweden<br>**About ::** Likely used for playing games.<br>[A & B](https://www.flickr.com/photos/historiska/6777026822/in/gallery-osrs-72157651342461995/) - Bone/antler grave find, from Björkö, Adelsö, Uppland<br>[C](https://www.flickr.com/photos/historiska/13621939844/in/gallery-osrs-72157651342461995/) - Bone/antler find from unknown location<br>[D](https://www.flickr.com/photos/historiska/13621608375/in/gallery-osrs-72157651342461995/) - Bone/antler grave find, from Sörby, Hölö, Södermanland<br>[E](https://www.flickr.com/photos/historiska/13622368263/in/gallery-osrs-72157651342461995/) - Teeth (from elk) grave find from Björkö, Adelsö, Uppland<br>**Courtesy of ::** The Swedish History Museum, Stockholm, [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) |
+| ![20-sided brushed steel die](img/dice/dice-metal-d20.png) | **What ::** Brushed Steel Icosahedron<br>**When ::** 21st century<br>**About ::** From Ethan's personal collection used to smite dragons, save damsels, and purchase cheap ale at the inn.<br>**Courtesy of ::** [Ethan Kellogg](https://www.fatsackgaming.com), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| ![United States Civil War bone die](img/dice/dice-bone.png) | **What ::** Bone die<br>**Who & When ::** United States, 1823-1834<br>**About ::** Discovered at Cantonment Clinch, an American fort used in the Civil War by both Confederate and Union troops at separate times.<br>**Courtesy of ::** [Kolby Kirk](https://commons.wikimedia.org/wiki/File:Die_bone.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 
 ---
 

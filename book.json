@@ -16,7 +16,7 @@
             "label": "Edit This Page"
         },
         "download-pdf": {
-            "base": "https://github.com/OriginsSRS/journal-issue-012/tree/master",
+            "base": "https://github.com/OriginsSRS/journal-issue-012/edit/master/content",
             "label": "Download PDF",
             "multilingual": "false"
         }

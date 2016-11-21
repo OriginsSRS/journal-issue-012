@@ -167,4 +167,6 @@ Jenn Swanson is a 2D and 3D artist.
 
 * **[Virtual Reality: History.](http://archive.ncsa.illinois.edu/Cyberia/VETopLevels/VR.History.html)** (1995). Science for the Millennium. The Board of Trustees at the University of Illinois.
 
+---
+
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

@@ -30,5 +30,7 @@ Want to verify an article as an Open Peer Reviewer? [Get in Touch](mailto:editor
 
 **Contributing Authors:** Colton Caldwell, Connor Lemp, Liz Lypp, Karen Meza, Jenn Swanson
 
+---
+
 <br>
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

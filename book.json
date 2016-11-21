@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/OriginsSRS/journal-issue-012",
+            "base": "https://github.com/OriginsSRS/journal-issue-012/tree/master",
             "label": "Edit This Page"
         }
     }

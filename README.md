@@ -1,4 +1,4 @@
-![arcade style cover](cover-issue-12.jpg)
+![arcade style cover](img/cover-issue-12.jpg)
 
 # Issue 12: Game On!
 

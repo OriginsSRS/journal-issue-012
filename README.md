@@ -18,12 +18,19 @@ Want to verify an article as an Open Peer Reviewer? [Get in Touch](mailto:editor
 
 ---
 
-| The Many Roles of Origins | And the Wonderful Role Players |
-| -- | -- |
-| Editor-in-Chief & Creative Director | Melanie E Magdalena |
-| Copy Editors | Priscilla Aguilera<br>Margaret Smith |
-| Graphic Design | Ethan Kellogg |
-| Marketing & Public Relations | Alex Vosburgh |
-| Contributing Authors | Colton Caldwell<br>Connor Lemp<br>Liz Lypp<br>Karen Meza<br>Jenn Swanson |
+### Our Contributors
+
+**Editor-in-Chief & Creative Director:** Melanie E Magdalena
+
+**Copy Editors:** Priscilla Aguilera, Margaret Smith
+
+**Graphic Design:** Ethan Kellogg
+
+**Marketing & Public Relations:** Alex Vosburgh
+
+**Contributing Authors:** Colton Caldwell, Connor Lemp, Liz Lypp, Karen Meza, Jenn Swanson
+
+{% GitHubContributors %}
+{% endGitHubContributors %}
 
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

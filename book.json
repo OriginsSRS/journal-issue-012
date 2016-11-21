@@ -7,18 +7,12 @@
         "expandable-chapters",
         "splitter",
         "word-count",
-        "creativecommons",
-        "download-pdf"
+        "creativecommons"
     ],
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/OriginsSRS/journal-issue-012/tree/master",
             "label": "Edit This Page"
-        },
-        "download-pdf": {
-            "base": "https://github.com/OriginsSRS/journal-issue-012/edit/master/content",
-            "label": "Download PDF",
-            "multilingual": "false"
         }
     }
 }

@@ -81,7 +81,7 @@ While head tracking is essential to any full VR experience, hand tracking has al
 
 ---
 
-[![Watch a video about Sony Morpheus](img/vr/vr-morpheus.png)<br>Check out Sony Morpheus.](https://www.youtube.com/watch?v=ra1uEu4zQh0)
+{% youtube %}https://www.youtube.com/watch?v=ra1uEu4zQh0{% endyoutube %}
 
 ---
 

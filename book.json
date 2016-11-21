@@ -3,5 +3,10 @@
         "youtube",
         "edit-link"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/OriginsSRS/journal-issue-012",
+            "label": "Edit This Page"
+        }
+    }
 }

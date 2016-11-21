@@ -4,8 +4,7 @@
         "edit-link",
         "toggle-chapters",
         "anchors",
-        "expandable-chapters",
-        "ga"
+        "expandable-chapters"
     ],
     "pluginsConfig": {
         "edit-link": {

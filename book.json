@@ -6,7 +6,8 @@
         "anchors",
         "expandable-chapters",
         "splitter",
-        "word-count"
+        "word-count",
+        "creativecommons"
     ],
     "pluginsConfig": {
         "edit-link": {

@@ -7,8 +7,7 @@
         "expandable-chapters",
         "splitter",
         "word-count",
-        "creativecommons",
-        "hide-element"
+        "creativecommons"
     ],
     "pluginsConfig": {
         "edit-link": {

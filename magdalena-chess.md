@@ -31,7 +31,7 @@ During the 9th century, Persian poet, musician, and singer Ali ibn-Nafi introduc
 
 ---
 
-![Shatranj](chess_shatranj.jpg)
+![Shatranj](img/chess/chess_shatranj.jpg)
 
 *Shatranj set from the 12th century, currently located at the New York Metropolitan Museum of Art.*<br>Image Credit: [Zereshk](https://commons.wikimedia.org/wiki/File:Shatranj.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
@@ -53,7 +53,7 @@ In 1993, sixteen pieces of pentagonal Hinoki wood, with Chinese calligraphy ideo
 
 ---
 
-![Shogi](chess_shogi.jpg)
+![Shogi](img/chess/chess_shogi.jpg)
 
 *Shogi uses flat tile pieces with symbols as identifiers (rather than different shapes).*<br>[Matt Perreault](https://www.flickr.com/photos/dirigibleduck/3331890418) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
@@ -71,7 +71,7 @@ In a phylogenetic study of chess ancestry by Alex R. Kraaijeveld (2000), forty c
 
 ---
 
-![Senet](chess_senet.jpg)
+![Senet](img/chess/chess_senet.jpg)
 
 *Around 3100 BCE someone inscribed a hieroglyph representing one of the oldest games of all time: Senet. This Egyptian game is featured in tomb paintings and often found in ancient tombs. During the New Kingdom, the game became a representation (or perhaps a talisman) for journeying through the underworld. It is even mentioned in the Book of the Dead. The Senet board is a grid of thirty squares arranged in three rows of ten. Though we don't actually know the rules, there are two versions you can buy and play today. We do know pawns were used as pieces, but not like the pawns used in Chess today.*<br>Image Credit: [Dmitry Denisenkov](https://www.flickr.com/photos/ddenisen/7364442692/in/photostream/) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
@@ -83,7 +83,7 @@ The origin of chess is shrouded in mystery. Where does one draw the line between
 
 ---
 
-![](chess_royal-game-of-ur.jpg)
+![](img/chess/chess_royal-game-of-ur.jpg)
 
 *From the Royal Tombs of Ur, two ancient game boards of twenty squares were discovered by Sir Leonard Woolley in the 1920s. Named the Royal Game of Ur, this is among the oldest board games in history (alongside ancient Egyptian Senet). A [tablet](http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=129985&objectId=796973&partId=1#more-views), which partially describes gameplay, has kept the rules of this game alive for millennia.*<br>Image Credit: [Babelstone](https://en.wikipedia.org/wiki/File:British_Museum_Royal_Game_of_Ur.jpg) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

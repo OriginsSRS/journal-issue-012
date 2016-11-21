@@ -177,3 +177,5 @@ Russian chess historian Pavle Bidev pointed out that the rules of chess likely o
 * Villa, M. (2004). **[The Time of Shatranj and the Aliyat.](http://www.schemingmind.com/journalarticle.aspx?article_id=3&page=1)** SchemingMind.com.
 
 * Weeks, M. (n.d.). **[Chess History.](http://www.mark-weeks.com/aboutcom/caa-hist.htm)** Chess for All Ages.
+
+{% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

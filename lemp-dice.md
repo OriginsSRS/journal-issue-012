@@ -85,4 +85,6 @@ People put a lot of effort into dice, both at creating them and cheating at them
 
 * Rowland, I. (2009). **[How Do You Load a Pair of Dice.](http://www.straightdope.com/columns/read/2878/how-do-youload-a-pair-of-dice)** The Straight Dope.
 
+---
+
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

@@ -178,4 +178,6 @@ Russian chess historian Pavle Bidev pointed out that the rules of chess likely o
 
 * Weeks, M. (n.d.). **[Chess History.](http://www.mark-weeks.com/aboutcom/caa-hist.htm)** Chess for All Ages.
 
+---
+
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

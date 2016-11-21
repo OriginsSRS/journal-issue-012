@@ -25,3 +25,6 @@ Want to verify an article as an Open Peer Reviewer? [Get in Touch](mailto:editor
 | Graphic Design | Ethan Kellogg |
 | Marketing & Public Relations | Alex Vosburgh |
 | Contributing Authors | Colton Caldwell<br>Connor Lemp<br>Liz Lypp<br>Karen Meza<br>Jenn Swanson |
+
+{% creativecommons type="by" iconSize="compact" iconOnly="true" %}
+{% endcreativecommons %}

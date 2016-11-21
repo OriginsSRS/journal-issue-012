@@ -8,7 +8,8 @@
         "splitter",
         "word-count",
         "creativecommons",
-        "scramble-mailto"
+        "scramble-mailto",
+        "superscript"
     ],
     "pluginsConfig": {
         "edit-link": {

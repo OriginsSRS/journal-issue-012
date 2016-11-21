@@ -2,7 +2,8 @@
     "plugins": [
         "youtube",
         "edit-link",
-        "toggle-chapters"
+        "toggle-chapters",
+        "anchors"
     ],
     "pluginsConfig": {
         "edit-link": {

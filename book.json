@@ -7,8 +7,7 @@
         "expandable-chapters",
         "splitter",
         "word-count",
-        "creativecommons",
-        "footnote-string-to-number"
+        "creativecommons"
     ],
     "pluginsConfig": {
         "edit-link": {

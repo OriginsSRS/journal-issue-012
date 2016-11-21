@@ -89,8 +89,6 @@ The addition of hand tracking within gameplay will open up a whole new immersive
 
 ---
 
-[![Watch a video of Virtuix Omni](img/vr/vr-virtuix.png)<br>Check out how you can walk in VR with Virtuix Omni.](https://www.youtube.com/watch?v=iUkjaNQlZO8)
-
 {% youtube %}https://www.youtube.com/watch?v=iUkjaNQlZO8(% endyoutube %}
 
 ---

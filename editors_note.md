@@ -20,4 +20,6 @@ Games are intertwined with many aspects of our lives. In the past, they came wit
 
 Back when I first pitched (read: begged) Melanie about a video game themed special issue, I knew I wanted to have an old school arcade cabinet as the cover. Arcades were such a big part of gaming culture in the late 80s and early 90s. Kids lining up, putting their quarters on the arcade cabinet to queue up for the next turn to play, the sounds, the music, the graphics. Nostalgia is good stuff and I tried to capture that. Also inside scoop: each little icon used in the cover represents one of the articles inside. We also incorporated the idea of Free Play with arcade machines and our philosophy of bringing Origins to people for free, keeping it open access and open source, and inviting everyone to come and play with us. - Ethan Kellogg
 
+---
+
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

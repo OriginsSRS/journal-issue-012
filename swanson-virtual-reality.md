@@ -122,3 +122,47 @@ With all that is going into the making of virtual experiences, the future is ope
 Prejudice may be completely eradicated due to this technology. Vacations may become weekly virtual experiences where people never have to leave their homes. Virtual reality may become the source of entertainment for the next generation. And people may lose their identities as they delve deeper into virtual space. 
 
 Who knows what will happen as these technologies advance?
+
+---
+
+### About the Author
+
+Jenn Swanson is a 2D and 3D artist.
+
+---
+
+### References
+
+Ashford, J. (2014). Rebooting Game Design for Virtual Reality. GDC Vault. Web. http://www.gdcvault.com/play/1020914/Rebooting-Game-Design-for-Virtual
+
+Bourke, P. (1999). Calculating Stereo Pairs. Web. http://paulbourke.net/stereographics/stereorender/
+
+Flaherty, J. (2015). Revealed at Last: Magic Leap’s Vision for Augmented Reality, in 32 Patent Illustrations. Wired.com. Web. http://www.wired.com/2015/01/magic-leaps-vision-for-virtual-reality/
+
+Kuntz, S. (2013). Creating Virtual Reality Games: The Fundamentals. Gamasutra. Web. http://www.gamasutra.com/view/feature/192810/creating_virtual_reality_games_.php?page=2
+
+Hempel, J. (2015). Satya Nadella’s Got a Plan to Make You Care About Microsoft. The First Step? Holograms. Wired.com. Web. http://www.wired.com/2015/01/microsoft-nadella/
+
+Lapowsky, I. (2015). Magic Leap CEO Teases ‘Golden Tickets’ for Its Augmented-Reality Device. Wired.com. Web. http://www.wired.com/2015/02/magic-leap-reddit/
+
+Luckey, P. and N. Mitchell. (2013). Virtual Reality Gaming and Game Development. GDC Vault. Web. http://www.gdcvault.com/play/1019290/Virtual-Reality-Gaming-and-Game
+
+Nelson, F. (2014). The Timeline Of Virtual Reality - The Past, Present, And Future Of VR And AR: The Pioneers Speak. Tom’s Hardware. Web. http://www.tomshardware.com/reviews/ar-vr-technologydiscussion,3811-2.html
+
+Ochalla, B. (2007). Art on the Brain. Gamasutra. Web. http://www.gamasutra.com/view/feature/130113/are_games_art_here_we_go_.php
+
+Osmose. (1995). Immersence Inc. Web. http://www.immersence.com/osmose/
+
+Prasuethsut, L. (2015). Project Morpheus Review. TechRadar. Web. http://www.techradar.com/us/reviews/gaming/project-morpheus-1235379/review
+
+Robertson, A. and M. Zelenko. The Rise and Fall and Rise of Virtual Reality. The Verge. Web. http://www.theverge.com/a/virtual-reality/oral_history
+
+Rubin, P. (2014). The Inside Story of Oculus Rift and How Virtual Reality Became Reality. Wired.com. Web. http://www.wired.com/2014/05/oculus-rift-4/
+
+Stein, S. (2015). HTC Vive Developer Edition Preview. CNET. Web. http://www.cnet.com/products/htc-vive-developer-edition/
+
+Stuart, K. (2014). The Identity Paradox: Why Game Characters Are Not Us, but Should Be. The Guardian. Web. http://www.theguardian.com/technology/2014/apr/24/the-identity-paradox-why-game-charactersare-not-but-should-be
+
+Stuart, K. (2014). What a Virtual Reality Art Show Could Say about the Future of Games. The Guardian. Web. http://www.theguardian.com/technology/2014/nov/20/virtual-reality-art-future-games
+
+Virtual Reality: History. (1995). Science for the Millennium. The Board ofTrustees at the University of Illinois. Web. http://archive.ncsa.illinois.edu/Cyberia/VETopLevels/VR.History.html

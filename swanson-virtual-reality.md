@@ -16,7 +16,7 @@ In order for the stereoscopic process of VR headsets to work (the process in whi
 
 ---
 
-![](img/vr/vr-parallax.png)
+![Parallax diagram](img/vr/vr-parallax.png)
 
 *Various types of parallax used to make Virtual Reality possible.*<br>
 Used with Permission: Jenn Swanson
@@ -42,7 +42,7 @@ When creating a stereoscopic image, one uses these cues together. Traditionally,
 
 ---
 
-![](img/vr/vr-elements-of-dimensions.png)
+![Elements of 2D and 3D](img/vr/vr-elements-of-dimensions.png)
 
 *The Elements of 2D and 3D.*<br>
 Used with Permission: Jenn Swanson
@@ -61,6 +61,15 @@ The second principle that can be implemented in VR is 3D rendering and motion pa
 
 This leads into the third principle of game design in VR, which is scale. Since everything from the player's point of view is in full stereo, visual cues are amplified. Large objects feel truly massive, and giant enemies are terrifyingly ginormous. Designers need to be careful when creating closed corridors, as small spaces can cause claustrophobia. Alternatively, when a player transitions from a narrow hallway to a wide open space, they are immediately imparted with a sense of relief. Spotting the differences in the experience of playing a VR game versus a non-VR game can further inform the choices in what to design into the game and how to shape the environment.
 
+---
+
+![Game Design Principles](img/vr/vr-game-design-for-VR.png)
+
+*Game design principles used to create presence.*<br>
+Used with permission: Jenn Swanson
+
+---
+
 The goal of virtual reality games is to create and maintain presence; breaks in presence cause a player to quickly become ejected from the experience. In order to avoid these recesses, content design should have a fixed sense of locomotion,
 usually using lateral movement (keeping the player fixed to the ground plane they are standing on), since fast changes in altitude can cause motion sickness. Points of reference also help to gauge where the player is in the game, and keep the playability on target. Though each individual has a different comfort level with VR, users can acclimate to the virtual world over time if its rules are easily understood and consistent. Good game design in VR avoids any unexpected perspective changes. Shifts in the horizon line can cause disorientation. Cut scenes, while important for narrative and visually stunning in non-VR games, are unnecessary in a VR experience. Furthermore, disabling head look (the action that lets a player look around the virtual environment using the VR headset) or moving the camera artificially breaks immersion in the virtual world. 
 
@@ -70,12 +79,46 @@ The player should be in control of the camera as much as possible. Camera knockb
 
 While head tracking is essential to any full VR experience, hand tracking has also been making its way into the virtual reality world. Sony's Morpheus has two controllers, (aptly called The Eye and The Move) which manipulate the gamer's view and position, and let the player see their hands in virtual space. HTC's Vive also has a hand-tracking component using two joystick-like controllers with a touchpad click surface. On the other hand, Oculus' Crescent Bay and Samsung's Gear VR do not have this experience tied into their packages; however, third party hardware developer, Leap Motion has been making a controller that can tie into any VR headset. Similar to the Xbox's Kinect, it tracks hands and can even operate without any VR input.
 
+---
+
+[![Watch a video about Sony Morpheus](img/vr/vr-morpheus.png)<br>Check out Sony Morpheus.](https://www.youtube.com/watch?v=ra1uEu4zQh0)
+
+---
+
 The addition of hand tracking within gameplay will open up a whole new immersive experience in VR games. These controllers will be able to act as physical touch points within a game. Morpheus controllers take this experience to the next level, by tracking the controllers once they are set down so that they are still visible to the player in virtual reality. Morpheus is adding another component for the ability to put down one VR item and pick up another using the same controller. This will help to create and maintain a sense of presence in gameplay.
+
+---
+
+[![Watch a video of Virtuix Omni](img/vr/vr-virtuix.png)<br>Check out how you can walk in VR with Virtuix Omni.](https://www.youtube.com/watch?v=iUkjaNQlZO8)
+
+---
 
 ## Being Someone Else
 
 The advancement in VR is not only changing the way games are played, it is also [changing art](https://www.theguardian.com/technology/2014/nov/20/virtual-reality-art-future-games) as a whole. Games fall into a subcategory of art, which is broadly defined as the "expression or application of human creative skill and imagination." Though games are categorized as art, many tend to fulfill an escapist fantasy, rather than fully immerse us in another world as a relatable character. This may change with the evolution of VR; however, games, especially action games, tend to focus on the events happening in their virtual world and fall into creating archetypal characters. No one can really relate to Master Chief (a video game protagonist), though it is fun to play him in Halo on the Xbox. Good art is an experience that evokes an emotion from the viewer; this is very similar to that sense of presence mentioned earlier – and it's what the developers at Oculus Rift are trying to create.
 
-One of the most well-known VR art pieces emerged in 1995 when Cher Davies created [Osmose](http://www.immersence.com/osmose/), an "immersive interactive virtual-reality environment installation with computer graphics and interactive 3D sound, a head-mounted display, and [a] real-motion tracking [vest] based on breathing and balance." Through the use of their own breath and balance, participants were able to journey between a dozen world-spaces, based mostly on metaphorical aspects of nature, as well as other worlds filled with code from the project and quotes from the artist. Though this is not an example of where the current market is, it is where it started in the 90s. This is what happens when art and science come together: technology advances.
+One of the most well-known VR art pieces emerged in 1995 when Cher Davies created [Osmose](http://www.immersence.com/osmose/), an:
+
+> "immersive interactive virtual-reality environment installation with computer graphics and interactive 3D sound, a head-mounted display, and [a] real-motion tracking [vest] based on breathing and balance."
+
+Through the use of their own breath and balance, participants were able to journey between a dozen world-spaces, based mostly on metaphorical aspects of nature, as well as other worlds filled with code from the project and quotes from the artist. Though this is not an example of where the current market is, it is where it started in the 90s. This is what happens when art and science come together: technology advances.
 
 Currently, artist Mark Farid is undertaking a radical project called [Seeing I](http://www.seeing-i.co.uk/), in which he plans to wear an Oculus Rift headset and live another person's life for 28 days. The project is both one of psychological and artistic curiosity. Whether this experience will change how he perceives his reality after those 28 days is the key question, and it is uncertain whether any potential damage to Farid's mental health could be repaired. Another art installation, called [The Machine to be Another](https://vimeo.com/84150219), focuses on the concept of body transfer illusion, the idea that the brain can be tricked into taking ownership of a body or body part that is not one's own. In this art piece, participants of different genders swap bodies via the Oculus. Similar projects have been found to teach people about empathy and decrease racial bias, by literally putting someone in someone else's shoes.
+
+## Augmented Reality
+
+Finally, while virtual reality headsets are planning to immerse us in worlds different from our everyday lives, augmented reality headsets are being constructed to put virtual data into our daily lives. These include the infamous Google Glass, as well as Microsoft's Project HoloLens, an AR headset that Microsoft claims will be wire-free with all the hardware integrated into the device itself. Though the prototype hasn't come that far yet, the HoloLens is able to scan an environment and insert digital projections into the real world. However, the image is confined to a viewer's center of vision, equal to about forty percent of the field of view.
+
+There is another AR device secretly being developed. A small company called Magic Leap is creating what they term "cinematic reality." While they are also constructing an AR headset, they are developing a new way to generate virtual objects in real space, using something called digital light-field signal technology. The current description is: 
+
+> "a lightweight head-mounted device that will house a tiny projector comprised of bespoke prisms and lenses that will beam images onto the user's retinas creating a 'dynamic digitized light field signal.' Apps, powered by mobile devices or body worn computers, will generate a steady stream of fantastic creatures and surreal tableau delivered with stereo speakers and at sixty frames per second."
+
+These images will be integrated into the real world using infrared positioning cameras, GPS modules, and multi-axis accelerometers. Thus far, Magic Leap has not released a prototype, but it is [rumored](https://www.youtube.com/watch?v=XAzsblOH83s) that ‘golden tickets’ are coming
+
+## A Future with VR/AR
+
+With all that is going into the making of virtual experiences, the future is open to many possibilities. Within the next twenty years, we may be surfing the Internet with our AR headsets, gaming in virtual worlds that feel more real than reality, and experiencing the world daily as other people through virtual body transfer illusion. 
+
+Prejudice may be completely eradicated due to this technology. Vacations may become weekly virtual experiences where people never have to leave their homes. Virtual reality may become the source of entertainment for the next generation. And people may lose their identities as they delve deeper into virtual space. 
+
+Who knows what will happen as these technologies advance?

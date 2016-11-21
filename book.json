@@ -7,8 +7,7 @@
         "expandable-chapters",
         "splitter",
         "word-count",
-        "creativecommons",
-        "bootstrap-callout"
+        "creativecommons"
     ],
     "pluginsConfig": {
         "edit-link": {

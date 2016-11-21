@@ -39,3 +39,5 @@ Who knows if we'll ever fully understand our home, the universe we live in. It i
 
 ###About the Author
 [**Alex Vosburgh**](www.knowyourorigins.org/team/vosburgh.html) is an Engineering Undergraduate at University of New Mexico. 
+
+{% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

@@ -5,7 +5,8 @@
         "toggle-chapters",
         "anchors",
         "expandable-chapters",
-        "splitter"
+        "splitter",
+        "word-count"
     ],
     "pluginsConfig": {
         "edit-link": {

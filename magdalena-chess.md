@@ -2,7 +2,7 @@
 
 ---
 
-![Chess: Modern Board Game or Living Fossil?](magdalena-cover-git.jpg)
+![Chess: Modern Board Game or Living Fossil?](img/magdalena-cover-git.jpg)
 
 *An artist rendition of fossilized chess pieces from around the world.*<br>
 Image Credit: Ethan Kellogg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

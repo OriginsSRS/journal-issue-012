@@ -13,4 +13,6 @@
 | ![Karen Meza avatar](karen.jpg) | **Name:** Karen Meza<br>**Character Type:** Consultant<br>**Character Subtype:** Shopaholic<br>**Gaming Since:** 1992<br>**Quest:** "Spatial Intelligence & Geometric Games" |
 | ![Colton Caldwell avatar](colton.jpg) | **Name:** Colton Caldwell<br>**Character Type:** Automotive Technician<br>**Character Subtype:** Welder<br>**Gaming Since:** 1990<br>**Quest:** "A Race Through Time"|
 
+---
+
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

@@ -7,17 +7,12 @@
         "expandable-chapters",
         "splitter",
         "word-count",
-        "creativecommons",
-        "githubcontributors"
+        "creativecommons"
     ],
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/OriginsSRS/journal-issue-012/tree/master",
             "label": "Edit This Page"
-        },
-        "githubcontributors": {
-            "githubOwner": "originssrs",
-            "githubRepository": "journal-issue-012"
         }
     }
 }

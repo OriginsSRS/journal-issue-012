@@ -32,5 +32,4 @@ Want to verify an article as an Open Peer Reviewer? [Get in Touch](mailto:editor
 
 ---
 
-<br>
 {% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}

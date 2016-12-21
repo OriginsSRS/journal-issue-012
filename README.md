@@ -12,7 +12,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unpor
 
 ***Disclaimer:*** The views expressed in this publication are those of the authors and do not necessarily reflect the position or views of Origins. The publisher, editor, contributors, and related parties assume no responsibility for loss, injury or inconvenience of any person, organization, or party that uses the information or resources provided within this publication, website, or related products.
 
-Errors, Bugs, Have Changes? [Submit them on GitHub](https://github.com/OriginsSRS/journal-issue-012/issues)!
+Errors, Bugs, Have Changes? [Submit them on GitHub](https://github.com/OriginsSRS/theme-game-on/issues)!
 
 Want to verify an article as an Open Peer Reviewer? [Get in Touch](mailto:editor@knowyourorigins.org)!
 

@@ -1,13 +1,9 @@
 # A Gamer's Insight into Reality
 
----
+![Crab Nebula, as Seen by Herschel and Hubble](.gitbook/assets/vosburgh-cover-git.jpg)
 
-![Crab Nebula, as Seen by Herschel and Hubble](img/vosburgh-cover-git.jpg)
-
-*Crab Nebula, as Seen by Herschel and Hubble*<br>
-Credit: [ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)](http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17563)
-
----
+_Crab Nebula, as Seen by Herschel and Hubble_  
+ Credit: [ESA/Herschel/PACS /MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester \(Arizona State University\)](http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17563)
 
 It is human nature to ponder the state of one's own existence. And indeed, one cannot ponder the nature of their existence without also considering the nature of the world around them. For what is existence without the collective memories and experiences one has acquired throughout their lifetime? It is through those events and the analysis of such happenstances that one can truly begin to discover themselves; to understand their place in the world and what that even means. Verily, I find that to be one of the nobler parts of humanity and its higher state of consciousness.
 
@@ -33,13 +29,9 @@ Everything that exists in our universe is composed of atoms, tiny particles that
 
 Interestingly enough, these tiny components also make up the coding for our universe. All video games are coded in a programming language that make up the rules and logic that define how the game runs. Particles do the exact same thing for our universe. The different ways they move and interact dictate the properties of everything that exists. The language of these subatomic particles is complex and strange, but there is reason to it. As modern scientists study it further, we come closer to unlocking all of the secrets of the universe.
 
-Who knows if we'll ever fully understand our home, the universe we live in. It is vast and complex and sometimes doesn't seem to make a whole lot of sense. But that won't stop us from trying to figure it out. As long as humanity has its curiosity, we shall always question things, and inevitably seek the answers to those questions. Which means it's only a matter of time until we are able to discern whether we live in a majorly complex version of The Sims or not. 
+Who knows if we'll ever fully understand our home, the universe we live in. It is vast and complex and sometimes doesn't seem to make a whole lot of sense. But that won't stop us from trying to figure it out. As long as humanity has its curiosity, we shall always question things, and inevitably seek the answers to those questions. Which means it's only a matter of time until we are able to discern whether we live in a majorly complex version of The Sims or not.
 
----
+## About the Author
 
-###About the Author
-[**Alex Vosburgh**](www.knowyourorigins.org/team/vosburgh.html) is an Engineering Undergraduate at University of New Mexico. 
+[**Alex Vosburgh**](https://github.com/originssrs/issue12/tree/cb3ba8ce2a3373d13af4b5c7efc56a2545c5f86e/www.knowyourorigins.org/team/vosburgh.html) is an Engineering Undergraduate at University of New Mexico.
 
----
-
-{% creativecommons type="by", iconOnly="true" %}{% endcreativecommons %}
